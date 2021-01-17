@@ -12,8 +12,8 @@ export const devConfig: IConfiguration = {
   },
   baseUsers: {
     admin: {
-      userName: 'admin',
-      defaultPassword: 'pass4admin'
+      userName: 'админ',
+      defaultPassword: '12345678'
     }
   }
 };
